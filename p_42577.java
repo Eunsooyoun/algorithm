@@ -1,8 +1,8 @@
 
 import java.util.Arrays;
 
-public class programmers2 {
-    // 해시_전화번호 목록
+public class p_42577 {
+    // 프로그래머스 lv2_전화번호 목록
     public static void main(String[] args) {
         String[] input = { "119", "97674223", "1195524421" };
         boolean answer = solution(input);

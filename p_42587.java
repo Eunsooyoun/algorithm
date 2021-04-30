@@ -4,6 +4,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 
 public class p_42587 {
+    // 프로그래머스 "lv2_프린터"
     public static void main(String[] args) {
         int[] p = { 1, 1, 9, 1, 1, 1 };
         int l = 0;

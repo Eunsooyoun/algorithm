@@ -5,8 +5,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class programmers3 {
-    // 해시_위장
+public class p_42578 {
+    // 프로그래머스 lv2_위장
     public static void main(String[] args) {
         String[][] input = { { "yellow_hat", "headgear" }, { "blue_sunglasses", "eyewear" },
                 { "green_turban", "headgear" } };
