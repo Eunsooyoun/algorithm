@@ -1,7 +1,10 @@
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class p_42883 {
     public static void main(String[] args) {
-        // 프로그래머스 lv2_가장 큰 수
-        System.out.println(solution("1111111", 4));
+        // 프로그래머스 lv2_큰 수 만들기
+        System.out.println(solution("1231234", 3));
     }
 
     public static String solution(String number, int k) {
