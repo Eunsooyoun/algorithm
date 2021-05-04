@@ -62,9 +62,9 @@ class Arr implements Comparable<Arr> {
     @Override
     public int compareTo(Arr a) {
         if (this.sum < a.sum) {
-            return 1; // x에 대해서는 오름차순
+            return 1; // sum에 대해서는 내림차순
         } else if (this.sum == a.sum) {
-            if (this.i > a.i) { // y에 대해서는 내림차순
+            if (this.i > a.i) { // i에 대해서는 오름차순
                 return 1;
             }
         }
