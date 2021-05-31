@@ -1,5 +1,3 @@
-import java.util.LinkedList;
-import java.util.Queue;
 
 public class p_42883 {
     public static void main(String[] args) {
